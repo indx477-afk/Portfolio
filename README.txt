@@ -1,4 +1,4 @@
-JHONA ARIZA PORTFOLIO — NO BOOTSTRAP
+JHONA ARIZA PORTFOLIO 
 
 Folder structure:
 portfolio_no_bootstrap/
